@@ -37,6 +37,6 @@ Lab Name:
 
 
 🖥️ Languages & Tools Used
-DEV C++
-VS Code
+DEV C++,
+VS Code,
  Extensions for VS Code
